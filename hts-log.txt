@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Thu, 10 Sep 2020 01:41:18 at https://sites.google.com/diu.edu.bd/itsmraponresume .zip
+(winhttrack https://sites.google.com/diu.edu.bd/itsmraponresume -O "resume/resume" -%v .zip )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:41:27	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link .zip/robots.txt (from primary/primary)
+01:41:27	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link .zip/ (from primary/primary)
+01:41:27	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link .zip/ (from primary/primary)
+01:41:27	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link .zip/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 13 links scanned, 8 files written (573515 bytes overall) [115576 bytes received at 12841 bytes/sec], 573582 bytes transferred using HTTP compression in 9 files, ratio 17%
+(2 errors, 2 warnings, 0 messages)
