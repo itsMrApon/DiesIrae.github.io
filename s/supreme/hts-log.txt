@@ -1,0 +1,10 @@
+HTTrack3.49-2 launched on Thu, 10 Sep 2020 03:05:08 at https://www.supremenewyork.com/
+(winhttrack https://www.supremenewyork.com/ -O "s/supreme" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:05:11	Error: 	"Forbidden" (403) at link https://www.supremenewyork.com/ (from primary/primary)
+03:05:11	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
